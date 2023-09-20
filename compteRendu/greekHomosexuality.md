@@ -94,12 +94,15 @@ Les épigrammes pédérastiques ont souvent emploié les mots <em>paidophilēs</
 Eros homossexuel peut être diabolique.
 Il faut mieux comprendre cette affirmation.
 
-In a homosexual relationship the eromenos is not expected to reciprocate the eros of the erastes
+In a homosexual relationship the eromenos is not expected to reciprocate the eros of the erastes.
+It means to do not have an erection.
+> In a homosexual relationship, however, the eromenos is not expected to reciprocate the eros of the erastes, the word <em>anterastēs</em> means 'rival erastes', not one who returns eros for eros, and it is noteworthy that in Pl. <em>Smp</em>. 192b the predominantly homosexual male, when not <em>paiderastēs</em> is <em>philerastēs</em> (i.e 'fond of his erastes)
 
 Xenophon, Symposia, 8.21: also, the boy does not share in the man's pleasure in intercourse. (p. 52)
 
 L'eromenos n'est pas là pour jouir. Il n'y a pas de plaisir physique à lui.
 What the erastes hopes to engender in the eromenos is not eros but love. Love inspired by admiration and gratitude towards the erastes.
+Sobre esse tema, pensar no epigrama 5.167, em que Moschos, muito provavelmente o <em>eromenos</em>, está <em>Ἀλλ᾽ ὁ καλὸς Μόσχος πλέον ἴσχυεν</em>
 
 Parfois, paidika et hetaira sont changeables
 
@@ -113,6 +116,18 @@ Women are more often offered money
 
 Il y avait une loi qui protégait le jeune homme citoyen des attaques.
 
-<em>diamērizein</em>: la copulation erastes et eromenos. le verbe veut dire : faire ... au milieu des cuisses (mēroi)
+<em>diamērizein</em>: la copulation erastes et eromenos. le verbe veut dire : faire ... au milieu des cuisses (mēroi) (procurei esse verbo na AG, porém não achei)
 
 >Homosexual anal copulation, by contrast with the intercrural mode, is portrayed by vase-painters only when it involves people of the same age-group (p. 99)
+
+Do eromenos era esperado 'amor e consetimento'.
+
+Eros e Afrodite são a personificação daquilo que faz com que os seres humanos se apaixonem. O termo <em>aphrodīsia</em> significa relação sexual, e o verbo <em>aphrodīsiazein</em> significa 'ter relações sexuais'. Há nisso o entedimento que a atividade genital, a prática sexual, faz parte dos domínios de Afrodite, enquanto caberia a Eros a parte menos física de 'se apaixonar'. Ora, nesse contexto há uma sublimação do amor pederasta. Esse amor, em teoria, não envolveria grandes contatos entre genitais e não seria físico, mas sobretudo intelectual. Além disso, <em>aphrodīsia</em> também denota a copulação homossexual.
+
+As piratas de Afrodite (τὰ λῃστρικὰ τῆς Ἀφροδίτης): 5.44 et 5.161
+
+Sobre o sexo anal e o sexo intercrural. No sexo anal, há uma questão de poder e dominação envolvida. Usualmente, embora haja epigramas que mostrem o contrário, o sexo anal era praticado com mulheres, até por ser uma opção contraceptiva eficiente. Ao penetrar o anus, o homem normalmente está de pé em por cima da mulher, mostrando dominá-la. No sexo intercrural, o <em>eromenos</em> fica ereto e posturado, enquanto é o homem que se agacha para conseguir esfregar sua genitália entre as coxas do garoto.
+O homem que atua como passivo na prática anal com outro homem, na concepção grega, se coloca no mesmo lugar que mulheres e escravizados, isto é coloca-se abaixo do homem/cidadão. Aquele que se prostitui é execrado, pois, se ele aceita trocar dinheiro por sexo, ele aceitaria qualquer coisa, inclusive trair sua cidade. É nesse contexto que a acusação de Esquines contra Timarchos ganha contornos políticos. Eschines não está atacando as práticas homossexuais de Atenas Clássica. O que ele faz é dizer que, no passado, Timarchos vendeu seu corpo para outros homens. Assim, no presente, é verossímil que Timarchos venda sua cidade também para outros homens.
+> The point of the fierce sanctions imposed by Attic law on hybris was that the perpetrator 'dishonoured' (<em>atīmazein</em>) his victim (p. 104)
+
+O longo discurso de acusação de Eschines contra Timarcos revela uma antítese proveniente da hyper-problematização da pederastia feita pelos atenienses: de um lado, Timarchos é representado como possuidor de um grande apetite sexual - uma característica tida como feminina, ele se deixa anal ou oralmente penetrar por outro homem, exercendo um papel de submissão e ele recebe dinheiro em troca de sexo; por outro lado, era esperado do <em>eromenos</em> ideal que ele não recebesse dinheiro em troca de sexo - ele no máximo receberia um presente - e que ele não se colocasse em uma situação de submissão frente ao <em>erastēs</em>. Além disso, o contato físico seria reduzido ao mínimo possível, sendo a penetração anal impensável. O máximo que o <em>eromenos</em> deveria fazer era ceder sua coxas para que o <em>erastēs</em> esfregasse seu pênis nela. Tampouco era esperado que o <em>eromenos</em> tivesse prazer sexual nessa relação. 

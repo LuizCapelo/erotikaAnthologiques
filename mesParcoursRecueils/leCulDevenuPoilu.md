@@ -2,6 +2,9 @@ Les épigrammes du livre 12 autour du sujet: l'amant est devenu poilu.
 Les auteurs parlent surtout de la barbe, mais à 12.30 Alcée parle explicitement du cul de son amant. 
 Dans le contexte d'un recueil érotique, 12.30 est l'épigramme le plus explicite jusqu'au moment.
 
+12.20 à 12.27, 12.30, 12.31, 12.33, 12.35, 12.36
+12.10, 12.12, 12.13, 12.186, 12.191, 12.192, 12.218, 12.220
+
 ## 12.24
 - Auteur: Lauréa
 

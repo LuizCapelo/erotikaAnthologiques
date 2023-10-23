@@ -38,3 +38,29 @@ Agora você pede, quando delicada penugem cresce no seu rosto e há pelo afiado 
 
 O cu de Sosarchos de Amphipolis, que é macio como uma moela, moldou Eros, a ruína dos homens, enquanto brincava desejando provocar Zeus, 
 já que, em comparação com as coxas de Ganimedes, as deste são muito mais doces.
+
+## Referência ao sexo anal e ao paidotribes também
+## 12.34
+
+### 12.206
+- ΣΤΡΑΩΝΟΣ
+
+α. ἢν τούτῳ † φωνῇς, τὸ μέσον λάβε, καὶ κατακλίνας
+ζεύγνυε, καὶ πρώσας πρόσπεσε, καὶ κάτεχε.
+β. οὐ φρονέεις, Διόφαντε: μόλις δύναμαι γὰρ ἔγωγε
+ταῦτα ποιεῖν: παίδων δ᾽ ἡ πάλη ἔσθ᾽ ἑτέρα.
+μοχλοῦ καὶ μένε, Κῦρι, καὶ ἐμβάλλοντος ἀνάσχου:
+πρῶτον συμμελετᾶν ἢ μελετᾷν μαθέτω. (Paton)
+
+Ἤν τούτῳ φωνῇς, « τὸ μέσον λάβε, καὶ κατακλίνας
+ζεύγνυε, καὶ πρώσας πρόσπεσε, καὶ κάτεχε»,
+οὐ φρονέεις, Διόφαντε: Mόλις δύναμαι γὰρ ἔγωγε
+ταῦτα ποιεῖν: παίδων δ᾽ ἡ πάλη ἔσθ᾽ ἑτέρα.
+«Ὀχλοῦ καὶ μένε, Κῦρι, καὶ ἐμβάλλοντος ἀνάσχου.»
+Πρῶτον συμμελετᾶν ἢ μελετᾷν μαθέτω. (Waltz)
+
+Quando grita para ele: "agarre a cintura, coloque pra baixo e segure, empurre e caia por cima ou mantenha a posição" você não pensa, Diofante? Ora, eu mesmo consigo fazer tais coisas com dificuldade, e olha que a luta dos garotos é outra coisa!
+"Se vire e aguente, Ciro, e, uma vez que estão em cima, se mantenha firme." Que ele primeiro aprenda a cooperar (apanhar) do que a atacar.
+
+
+### 12.222

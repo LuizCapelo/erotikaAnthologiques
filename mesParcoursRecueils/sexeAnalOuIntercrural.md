@@ -1,5 +1,39 @@
 Sexo anal entre <em>erastēs</em> e <em>eromenos</em>: 12.6, 12.7, 12.37, 12.38,12.40,12.41, 12.210, 12.238, 12.240, 12.243, 12.245
 
+## 12.6
+- Lemma: τοῦ αὐτοῦ (Straton)
+
+πρωκτὸς καὶ χρυσὸς τὴν αὐτὴν ψῆφον ἔχουσιν:  
+ψηφίζων δ᾽ ἀφελῶς τοῦτὸ ποθ᾽ εὗρον ἐγώ. 
+
+Cu e ouro têm o mesmo valor numérico. Calculando suavemente, eu descobri isso um outro dia
+
+## 12.7
+- Lemma: τοῦ αὐτοῦ (Straton)
+
+Σφιγκτὴρ οὐκ ἔστιν παρὰ παρθένῳ, οὐδὲ φίλημα  
+ἁπλοῦν, οὐ φυσικὴ χρωτὸς ἐυπνοΐη,  
+οὐ λόγος ἡδὺς ἐκεῖνος ὁ πορνικός, οὐδ᾽ ἀκέραιον  
+βλέμμα, διδασκομένη δ᾽ ἐστὶ κακιοτέρα.  
+ψυχροῦνται δ᾽ ὄπιθεν πᾶσαι: τὸ δὲ μεῖζον ἐκεῖνο,  
+οὐκ ἔστιν ποῦ θῇς τὴν χέρα πλαζομένην.   
+
+Com as garotas, não há cu, nem beijo sincero, tampouco o agradável cheiro natural da pele;
+não há aquelas doces palavras de putaria, nem o olhar puro. E as garotas que foram instruídas são as piores.
+Todas elas são frias por trás. E o mais grave nisso: não há onde você possa colocar a mão errante.
+
+## 12.37 
+- Lemma: Διοσκορίδου
+
+πυγὴν Σωσάρχοιο διέπλασεν Ἀμφιπολίτεω
+μυελίνην παίζων ὁ βροτολοιγὸς Ἔρως,
+Ζῆνα θέλων ἐρεθίξαι, ὁθούνεκα τῶν Γανυμήδους
+μηρῶν οἱ τούτου πουλὺ μελιχρότεροι.
+
+O cu de Sosarchos de Amphipolis, que é macio como uma moela, moldou Eros, a ruína dos homens, enquanto brincava desejando provocar Zeus, já que, em comparação com as coxas de Ganimedes, as deste são muito mais doces.
+
+---
+
 Sexo intercrural: 12.31, 12.36, 12.37 et 12.208
 
 ## 12.31

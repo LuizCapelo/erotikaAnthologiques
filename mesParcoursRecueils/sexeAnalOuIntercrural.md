@@ -32,6 +32,17 @@ Todas elas são frias por trás. E o mais grave nisso: não há onde você possa
 
 O cu de Sosarchos de Amphipolis, que é macio como uma moela, moldou Eros, a ruína dos homens, enquanto brincava desejando provocar Zeus, já que, em comparação com as coxas de Ganimedes, as deste são muito mais doces.
 
+## 12.38
+- Lemma: Ῥιανοῦ
+
+ὧραί σοι Χάριτές τε κατὰ γλυκὺ χεῦαν ἔλαιον,<br>
+ὦ πυγά: κνώσσειν δ᾽ οὐδὲ γέροντας ἐᾷς.<br>
+λέξον μοι. τίνος ἐσσὶ μάκαιρα τύ, καὶ τίνα παίδων<br>
+κοσμεῖς; ἁ πυγὰ δ᾽ εἶπε: Μενεκράτεος.
+
+As Horas e as Graças te banharam com o doce oléo de oliva. Ó cu, você não deixa os velhos dormirem!
+Diga-me, você é o bem-aventurado cu de quem e adorna qual das crianças? Então o cu fala: sou de Menecrates.
+
 ---
 
 Sexo intercrural: 12.31, 12.36, 12.37 et 12.208

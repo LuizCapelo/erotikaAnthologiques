@@ -40,7 +40,7 @@ O cu de Sosarchos de Amphipolis, que é macio como uma moela, moldou Eros, a ru�
 λέξον μοι. τίνος ἐσσὶ μάκαιρα τύ, καὶ τίνα παίδων<br>
 κοσμεῖς; ἁ πυγὰ δ᾽ εἶπε: Μενεκράτεος.
 
-As Horas e as Graças te banharam com o doce oléo de oliva. Ó cu, você não deixa os velhos dormirem!
+As Horas e as Graças te banharam com o doce oléo de oliva. Ó cu, você não deixa os velhos dormirem!<br>
 Diga-me, você é o bem-aventurado cu de quem e adorna qual das crianças? Então o cu fala: sou de Menecrates.
 
 ---

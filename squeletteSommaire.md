@@ -18,22 +18,33 @@ Présenter l'AG
 Présentation des concepts. D'abord, différencier *Codex Palatinus* 23 d'Anthologie Palatine et Anthologie Palatine d'Anthologie Grecque.
 #### Les sources
 Présentation des "sources principales" de l'AG: les couronnes de Méléagre et de Philippe et le cycle d'Agathias. Dans ce projet de recherche, la *Muse Garçonnière* de Straton de Sardes est aussi une source principale. 
-#### Anthologie palatine, Anthologie Byzantine? Une œuvre de l'*empire sans frontière* (à voir la pertinence?)
+<!-- #### Anthologie palatine, Anthologie Byzantine? Une œuvre de l'*empire sans frontière* (à voir la pertinence?)
 Dans cette partie, je pense à lier l'AG à l'Empire Byzantin. Ma pensée est la suivante: l'Empire, comme l'AG, existe parce qu'il a trois éléments essentiels qui organisent tous les autres: la langue grec, la réligion chrétienne et Constantinopla. Or, Byzance est un empire qui a duré plus de mil ans, dont plusieurs dinasties ont reigné. Temps et etnies ne sont pas des éléments définiteurs, ni le territoire l'est. Les frontières de l'Empire changent avec le temps. L'Empire est donc une série d'éléments qui sont rassembles autour de la triade fondatrice langue, religion et Constantinople. Or, l'AG aussi est un objet ouvert au sens qu'elle aussi est change par rapport au temps, lieux, etc. Par exemple, l'AG de Stadmüller est une AG autre que celle que nous avons à Anthologia. Donc, comme l'Empire, un objet multiple qui a une série d'éléments essentiels qui le définent -- et mon projet est exactement étudier quels sont ces éléments. En plus, je peux aussi dire que langue grec, la réligion chrétienne et Constantinople sont des éléments présents (peut-être organisateurs aussi) à l'AG.
 On peut aussi analyser l'Empire comme un berceau d'anthologies/recueils -- d'œuvres littéraires, de peuples, de coutumes. 
-De quelque façon, c'est une pensée à developper.
+De quelque façon, c'est une pensée à developper. -->
 ## L'épigramme
 Étudier l'épigramme, l'élément unitaire de l'AG
 ### Définition
 Donner une défition d'épigramme.
 D'abord, on peut penser à une définition de l'épigramme à l'Antiquité.
 Mais l'AG ne se restreint pas à l'Antiquité. Ainsi, on se pose la question si l'épigramme est une genre textuel à travers le temps.
-### Un genre textuel?
+<!--### Un genre textuel?
 Est-ce qu'on peut dire, par exemple, que les traductions des épigrammes sont aussi des épigrammes ou le texte, une fois traduit, cesse d'être un épigramme.
-Il faut penser quelles sont les caractéristiques textuelles partagées entre toutes les versions des textes de l'AG. À la fin, on se pose s'il y a des caractéristiques qui soient communes à tous ces textes, à exception au fait de qu'ils sont à l'AG. 
+Il faut penser quelles sont les caractéristiques textuelles partagées entre toutes les versions des textes de l'AG. À la fin, on se pose s'il y a des caractéristiques qui soient communes à tous ces textes, à exception au fait de qu'ils sont à l'AG. -->
 # Deuxième partie - Les erotika
 Dans cette partie du travail, j'approfonds ma pensée et je entre aux erotika.
-## Érotisme
+
+## Les pornai
+#### Porn studies
+Établir un état de l'art des porns studies
+#### Pornographie à l'antiquité
+Est-ce qu'on peut parler de pornographie à l'antiquité dans le cadre qu'on comprend la pornographie aujourd'hui?
+Dans un première moment, on suppose que non. Mais ensuite on voit le πορνικώτατον qui L a mis à 5.55.2.
+Or, cette scholie pose plusieurs question. D'abord comment la traduire vers le français?
+
+## Les eromenoi
+
+<!-- ## Érotisme
 D'abord, il faut discuter l'élément commun, ou qui est censé d'être commun à tous ces textes, qui est l'érotisme. 
 ### Définition
 Donner une définition ouvrable d'érotisme.
@@ -42,15 +53,9 @@ Les épigrammes sont érotiques. Il n'y a aucune dout par rapport à ça. D'abor
 Mais est-ce qu'il y en a des épigrammes qui sont pornographiques?
 ### Érotisme ou pornographie?
 Érotisme et pornographie sont des concepts différents ou sont-ils synonimes?
-Ici, je dois travailler avec les porn studies. 
-#### Porn studies
-Établir un état de l'art des porns studies
-#### Pornographie à l'antiquité
-Est-ce qu'on peut parler de pornographie à l'antiquité dans le cadre qu'on comprend la pornographie aujourd'hui?
-Dans un première moment, on suppose que non. Mais ensuite on voit le πορνικώτατον qui L a mis à 5.55.2.
-Or, cette scholie pose plusieurs question. D'abord comment la traduire vers le français?
-Pour la traduire, il faut comprendre ce que L veut dire par πορνικώτατον. Est-ce qu'il parle des femmes prostituées, et l'épigramme est le plus representative de ces femmes-là? Mais au texte de 5.55, sauf l'acte sexuel, il n'y a aucune indication que Doris soit une prostituée. 
-## Littérature érotique (jusqu'où ? Antiquité? Empire byzantin? Est-ce qu'on peut délimiter jusqu'où va l'influence de l'AG ?)
+Ici, je dois travailler avec les porn studies. -->
+
+<!-- ## Littérature érotique (jusqu'où ? Antiquité? Empire byzantin? Est-ce qu'on peut délimiter jusqu'où va l'influence de l'AG ?)
 L'érotisme en tant qu'un genre littéraire.
 Quels sont les modèles de l'érotisme et quel est le canon érotique?
 ### Est-ce qu'on peut parler de littérature érotique dans l'Antiquité
@@ -60,7 +65,7 @@ Je peux cherhcer des textes érotiques de la période.
 Il y a de la littérature érotique héllenistique hors de l'AG? Quels sont ces textes et leurs caractéristiques.
 Et l'empire byzantin? C'est important pour comprendre les erotika de Céphalas et les scholies de A, C et L.
 #### Épigrammes amoureuses latines 
-Or, il y en une littérature érotique latine. Qui sont les auteurs et quoi ils ont publié?
+Or, il y en une littérature érotique latine. Qui sont les auteurs et quoi ils ont publié? -->
 ## Les *erotika* à l'Anthologie Palatine
 Je dois parler des différents recueils érotiques de l'AG. 
 Dans un premier moment, caractériser les erotika de Méléagre, Philippe, Agathias et Straton. Où sont-elles pareilles et où sont elles différentes? 

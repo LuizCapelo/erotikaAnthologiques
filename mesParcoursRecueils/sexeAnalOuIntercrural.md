@@ -111,6 +111,7 @@ já que, em comparação com as coxas de Ganimedes, as deste são muito mais doc
 |:---:|:---:|:---:|
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.34/">12.34</a> | Automédon | Couronne de Philippe |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.206/">12.206</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.222/">12.222 | Straton | Muse Garçonnière |
 
 ### 12.34
 - Lemma: Αὐτομέδοντος

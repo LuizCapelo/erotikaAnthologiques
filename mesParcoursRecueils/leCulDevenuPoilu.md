@@ -4,6 +4,23 @@ Dans le contexte d'un recueil érotique, 12.30 est l'épigramme le plus explicit
 
 Qual é a relação entre o sexo intercrural e o ciclo da barba? Eis algo a refletir. 
 
+## O mais ambíguo
+
+Esse epigrama trata da questão da barba (λείους) e do intercrural ou masturbação (τρίβοντας)
+
+### 12.13
+
+- Lemma: Στράτωνος
+
+ἰητροὺς εὗρόν ποτ᾽ ἐγὼ λείους δυσέρωτας,
+τρίβοντας φυσικῆς φάρμακον ἀντιδότου.
+οἱ δέ γε φωραθέντες, ‘ἔχ᾽ ἡσυχίην’ ἐδέοντο:
+κἀγὼ ἔφην ‘ σιγῶ, καὶ θεραπεύσετέ με. ’ 
+
+Um dia, eu encontrei uns médicos imberbes loucos de amor que se esfregavam um remédio, um antídoto natural.
+Uma vez descobertos, me suplicaram "mantenha o silêncio!". E eu respondi, "eu me calo, mas vocês irão me aplicar curar"
+
+
 ## Sexo intercrural
 
 | Épigramme | Auteur | Collection |
@@ -140,7 +157,7 @@ Despenar a ave sem culpa parece ser em vão caso também Polemon não seja despe
 
 12.13
 
-## 12.30
+### 12.30
 - Auteur: Alcée
 
 ἡ κνήμη, Νίκανδρε, δασύνεται: ἀλλὰ φύλαξαι,
@@ -153,7 +170,7 @@ para que sua bunda não passe pelo mesmo sem que você perceba
 e você saberá quão grande é a escassez de amantes.
 E assim, desde agora reflita sobre a juventude que não retorna.
 
-## 12.220
+### 12.220
 - Auteur: Straton
 
 οὐχὶ τὸ πῦρ κλέψας δέδεσαι, κακόβουλε Προμηθεῦ,

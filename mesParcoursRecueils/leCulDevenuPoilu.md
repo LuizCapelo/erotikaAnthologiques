@@ -18,7 +18,7 @@ Esse epigrama trata da questão da barba (λείους) e do intercrural ou mast
 κἀγὼ ἔφην ‘ σιγῶ, καὶ θεραπεύσετέ με. ’ 
 
 Um dia, eu encontrei uns médicos imberbes loucos de amor que se esfregavam um remédio, um antídoto natural.
-Uma vez descobertos, me suplicaram "mantenha o silêncio!". E eu respondi, "eu me calo, mas vocês irão me aplicar curar"
+Uma vez descobertos, me suplicaram "mantenha o silêncio!". E eu respondi, "eu me calo, mas vocês irão me curar"
 
 
 ## Sexo intercrural

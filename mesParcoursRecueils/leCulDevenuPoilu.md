@@ -53,7 +53,22 @@ já que, em comparação com as coxas de Ganimedes, as deste são muito mais doc
 
 ## Cycle de la barbe
 
-12.10, 12.12, 12.20 à 12.27,, 12.31, 12.33, 12.35, 12.36, 12.186, 12.191, 12.192, 12.220
+| Épigramme | Auteur | Collection |
+|:---:|:---:|:---:|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.10/">12.10</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.12/">12.12</a> | Statilius Flaccus | Couronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.20/">12.20</a> | Julius Leonidas | Couronne de Philippe (?)|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.21/">12.21</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.22/">12.22</a> | Scythinos de Téos | Couronne de Méléagre |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.23/">12.23</a> | Méléagre | Couronne de Méléagre |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.24/">12.24</a> | Tullius Laurea | Couronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.25/">12.25</a> | Statilius Flaccus | Couronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.26/">12.26</a> | Statilius Flaccus | Coronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.27/">12.27</a> | Statilius Flaccus | Couronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.35/">12.35</a> | Dioclès |  Couronne de Philippe |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.186/">12.186</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.191/">12.191</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.220/">12.220</a> | Straton | Muse Garçonnière |
 
 ### 12.24
 - Auteur: Lauréa
@@ -117,7 +132,13 @@ Despenar a ave sem culpa parece ser em vão caso também Polemon não seja despe
 
 ## Les cuisses poilues
 
-12.13, 12.30, 12.220
+| Épigramme | Auteur | Collection |
+|:---:|:---:|:---:|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.30/">12.30</a> | Alcée de Messène | Couronne de Méléagre |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.33/">12.33</a> | Méléagre | Couronne de Méléagre |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.220/">12.220</a> | Straton | Muse Garçonnière |
+
+12.13
 
 ## 12.30
 - Auteur: Alcée

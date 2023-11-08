@@ -2,6 +2,16 @@
 title: épigrammes qui ne sont pas érotiques selon les scholiastes
 ---
 
+| Épigramme | Auteur | Source | Lemmatiste | Lemma |
+|:---:|:---:|:---:|:---:|:---:|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.41/">5.41</a> | Rufin | Sylloge de Rufin | L | <em>πρός τινα πόρνην χλευαστικόν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.49/">5.49</a> | Tudicius Gallus | Sylloge de Rufin | L | <em>ἐπίγραμμα ἀδικώτατον</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.55/">5.55</a> | Dioscoride | Sylloge de Rufin/Couronne de Méléagre | L | <em>εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.71/">5.71</a> | Palladas/Rufin | Sylloge de Rufin | <em>σκωπτικὸν εἰς γυναῖκα Ζήνωνος</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.76/">5.76</a> | Rufin | Sylloge de Rufin | L | <em>εἰς πόρνην γηράσασαν: σκωπτικόν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.94/">5.94</a> | Rufin | Sylloge de Rufin | L | <em>εἰς Μελίτην ὡραῖον</em> |
+
+
 ## χλευαστικόν
 ### 5.41
 <p> - ῾Ρουφίνου</p>

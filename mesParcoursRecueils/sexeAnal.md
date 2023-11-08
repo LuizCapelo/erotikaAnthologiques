@@ -102,3 +102,23 @@ Quando grita para ele: "agarre a cintura, coloque pra baixo e segure, empurre e 
 
 
 ### 12.222
+
+## Sexe anal au livre 5
+
+| Épigramme | Auteur | Collection | Lemmatiste | Lemma | La référence |
+|:---:|:---:|:---:|:---:|:---:|:--:|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.35/">5.35</a> | Rufin | Sylloge de Rufin |  L | <em>εἰς πόρνας, ἀναίσχυντον καὶ σαπρὸν καὶ ὅλον γέμον ἀναίδειαν</em> | <em>γλουτῶν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.36/">5.36</a> | Rufin | Sylloge de Rufin | L | <em>ὅμοιον, ἀναίσχυντον καὶ σαπρότατον</em> | <em>μηρῶν</em> et <em>μηριόνην</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.49/">5.49</a> | Tudicius Gallus | Sylloge de Rufin | L | <em>ἐπίγραμμα ἀδικώτατον</em> | <em>ὄπιθεν</em> et <em>φιλόπαιδα</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.54/">5.54</a> | Dioscoride | Sylloge de Rufin/ Couronne de Méléagre | L | <em>φλυαρία πρὸς ὁμοίους αὐτοῦ: πῶς δεῖ μετὰ γυναικὸς έγκύμονος συγκαθεύδειν</em> | <em>ἀρσενόπαιδα Κύπριν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.60/">5.60</a> | Rufin | Sylloge de Rufin | L | <em>εἰς παρθένον λουομένην</em> | <em>πυγαὶ</em>
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.116/">5.116</a> | Marcos Argentarius | Couronne de Philippe | L | <em>ἐρωτικόν, ὅτι ὁ θῆλυς ἔρως εὐάρμοστον τῇ φύσει · ὁ δ᾽ἄρρην ἀναρμοστον καὶ ἀσεβές</em> | <em>κόλποις ἄρσενα</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.132/">5.132</a> | Philodème | Couronne de Philippe | C | <em>εἰς τὴν αὐτὴν Ξανθίππην · μανίας μεστὸν καὶ θαυμαστικόν</em> | <em>γλουτῶν</em>
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.208/">5.208</a> | Méléagre | Couronne de Méléagre | C | <em>ἀποτρεπτικὸν παιδοφθορίας</em> | <em>ἀρσενικαῖς λαβίσιν</em> |
+
+5.35 (γλουτῶν), 5.54 (ἀρσενόπαιδα Κύπριν), 5.49 (ὄπιθεν,φιλόπαιδα), 5.132 (γλουτῶν), 5.116 (κόλποις ἄρσενα), 5.208 (ἀρσενικαῖς λαβίσιν), 5.60 (πυγαὶ), 5.36 (μηρῶν et μηριόνην), 
+
+Palavras buscadas até o momento: gloutos, arsen, pugē, meros, kolpos, proktos, eurus.
+Não há proktos no livro 5. O termo mais explícito não está presente.
+
+Percebe-se que as referências à prática no livro 5 são muito menores do que as presentes no livro 12. Pode-se supor que a possibilidade da prática vaginal faz com que o anal não seja tão recorrentemente citado como motivo poético.

@@ -1,14 +1,14 @@
 ## Sexo anal entre <em>erastēs</em> e <em>eromenos</em>
 
-| Épigramme  | Auteur | Collection |
-|:---:|:---:|:---:|
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.6/">12.6</a> | Straton | Muse Garçonnière |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.7/">12.7</a> | Straton | Muse Garçonnière |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.37/">12.37</a> | Dioscoride | Couronne de Méléagre |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.38/">12.38</a> | Rhianos | Couronne de Méléagre |
+| Épigramme  | Auteur | Collection | Référence léxicale |
+|:---:|:---:|:---:|:---:|
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.6/">12.6</a> | Straton | Muse Garçonnière | <em>πρωκτὸς</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.7/">12.7</a> | Straton | Muse Garçonnière | <em>σφιγκτὴρ</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.37/">12.37</a> | Dioscoride | Couronne de Méléagre | <em>πυγὴν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.38/">12.38</a> | Rhianos | Couronne de Méléagre | <em>πυγά</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.40/">12.40</a> | Anonyme | Couronne de Méléagre |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.41/">12.41</a> | Méléagre | Couronne de Méléagre |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.210/">12.210</a> | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.210/">12.210</a> | Straton | Muse Garçonnière | <em>τέρπων ἐξόπιθεν</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.238/">12.238</a> | Straton | Muse Garçonnière |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.240/">12.240 | Straton | Muse Garçonnière |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.243/">12.243 | Straton |  Muse Garçonnière |
@@ -105,7 +105,7 @@ Quando grita para ele: "agarre a cintura, coloque pra baixo e segure, empurre e 
 
 ## Sexe anal au livre 5
 
-| Épigramme | Auteur | Collection | Lemmatiste | Lemma | La référence |
+| Épigramme | Auteur | Collection | Lemmatiste | Lemma | Référence léxicale |
 |:---:|:---:|:---:|:---:|:---:|:--:|
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.35/">5.35</a> | Rufin | Sylloge de Rufin |  L | <em>εἰς πόρνας, ἀναίσχυντον καὶ σαπρὸν καὶ ὅλον γέμον ἀναίδειαν</em> | <em>γλουτῶν</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.36/">5.36</a> | Rufin | Sylloge de Rufin | L | <em>ὅμοιον, ἀναίσχυντον καὶ σαπρότατον</em> | <em>μηρῶν</em> et <em>μηριόνην</em> |

@@ -9,10 +9,10 @@
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.40/">12.40</a> | Anonyme | Couronne de Méléagre |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.41/">12.41</a> | Méléagre | Couronne de Méléagre |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.210/">12.210</a> | Straton | Muse Garçonnière | <em>τέρπων ἐξόπιθεν</em> |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.238/">12.238</a> | Straton | Muse Garçonnière |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.240/">12.240 | Straton | Muse Garçonnière |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.243/">12.243 | Straton |  Muse Garçonnière |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.245/">12.245 | Straton | Muse Garçonnière |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.238/">12.238</a> | Straton | Muse Garçonnière | <em>ὄπισθε</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.240/">12.240 | Straton | Muse Garçonnière | <em> πυγίζειν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.243/">12.243 | Straton |  Muse Garçonnière | <em> πυγίζειν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:12.245/">12.245 | Straton | Muse Garçonnière | <em>πυγίζειν</em> |
 
 
 ### 12.6

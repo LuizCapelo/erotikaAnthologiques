@@ -7,9 +7,14 @@ title: épigrammes qui ne sont pas érotiques selon les scholiastes
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.41/">5.41</a> | Rufin | Sylloge de Rufin | L | <em>πρός τινα πόρνην χλευαστικόν</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.49/">5.49</a> | Tudicius Gallus | Sylloge de Rufin | L | <em>ἐπίγραμμα ἀδικώτατον</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.55/">5.55</a> | Dioscoride | Sylloge de Rufin/Couronne de Méléagre | L | <em>εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </em> |
-|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.71/">5.71</a> | Palladas/Rufin | Sylloge de Rufin | <em>σκωπτικὸν εἰς γυναῖκα Ζήνωνος</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.71/">5.71</a> | Palladas/Rufin | Sylloge de Rufin | L | <em>σκωπτικὸν εἰς γυναῖκα Ζήνωνος</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.76/">5.76</a> | Rufin | Sylloge de Rufin | L | <em>εἰς πόρνην γηράσασαν: σκωπτικόν</em> |
 |<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.94/">5.94</a> | Rufin | Sylloge de Rufin | L | <em>εἰς Μελίτην ὡραῖον</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.95/">5.95</a> | Anonyme | Sylloge de Rufin | C | <em>ὡραῖον</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.117/">5.117</a> | Maecius | Couronne de Philippe | L | <em>ἐρωτομανὲς καὶ γέμον ἀσέβειαν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.126/">5.126</a> | Philodème | Couronne de Philippe | C | <em>τωθαστικὸν ἐπί τινι ἐρῶντι σαρπῷ καὶ πολλὰ παρεχομένῳ ταῖς ἑταίραις</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.132/">5.132</a> | Philodème | Couronne de Philippe | C | <em>εἰς τὴν αὐτὴν Ξανθίππην · μανίας μεστὸν καὶ θαυμαστικόν</em> |
+|<a href="https://anthologiagraeca.org/passages/urn:cts:greekLit:tlg7000.tlg001.ag:5.166/">5.166</a> | Méléagre | Couronne de Méléagre | C | <em>εἰς τὴν αὐτήν · θαυμάσιον, ἔρωτος ἔμπλεων</em> |
 
 
 ## χλευαστικόν

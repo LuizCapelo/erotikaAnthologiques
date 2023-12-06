@@ -2,7 +2,7 @@
 title:
     - Sens et destin du distique élégiaque
 sous-titre:
-    -Compte rendu
+    - Compte rendu
 auteur:
     - Pierre Grimal
     - Luiz Capelo (compte rendu)

@@ -40,5 +40,11 @@ L'objectif de la forme anthologique: rendre lisible ce qui ne l'est pas ou ce qu
 
 anthologie littéraire: historicisation de la littérature.
 
+Anthologie: objet littéraire et forme éditorial
+
+> Couronne, guirlande, couronne fleurie, gerbe ou bouquet, telles étaient les premières métaphores utilisées par Méléagre reprenant lui-même une série d'images traditionnelles de l'Antiquité, certes développées par le discours critique des orateurs, mais inscrites dans l'étymologie (p. 74)
+
+Lire, c'est bien proférer, cuieillir, choisir, rassembler et éliminer
+
 
  

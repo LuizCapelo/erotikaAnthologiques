@@ -46,5 +46,17 @@ Anthologie: objet littéraire et forme éditorial
 
 Lire, c'est bien proférer, cuieillir, choisir, rassembler et éliminer
 
+"Peu de livres affirment avec autant de force que les anthologies la relation entre le contenu et le contenant, titre et objets confondus"
 
- 
+Une anthologie a un peu de musée et un peu de bibliothèque. Elle est musée par rapport à son but de conservation d'œuvres. Le musée est un lieu d'enfermement et de conservation. Il est un espace de rayonnement d'une culture et il défit l'oubli. Elle est bibliothèque parce que elle présente une sélection, un parcours de lecture. Elle fait du stockage aussi.
+
+ > L'anthologie est une relecture du passé, et partant, une réécriture (p. 79)
+
+Recueil X Anthologie
+Há uma grande questão sobre a anthologie ser uma coleção de objetos, mas que desvela alguma intencionalidade. O recueil, pela leitura de Fraisse, é uma reunião da obra de determinado autor. Nele, não há a intenção de se apresentar 'as mais belas obras'. É recolher os textos sobre determinado tema, ou de determinado autor. Normalmente, todos os textos, sem um critério de seleção desses textos. O exemplo dado é o da 'obra completa'. "Le problème des 'œuvres complètes' peut, sauf dans une perspective érudite et philologique, n'être paradoxalement que l'envers de la question que pose l'anthologie". Ora, a obra completa pretende abarcar toda a produção de determinado autor. Ela se pretende global. Aqui, a relação entre elemento e todo não é determinante. Na anthologie, ao contrário, há escolhas. Uma anthologia não se pretende global. Muito pelo contrário, ela pretende apresentar apenas as mais belas flores, as obras mais extraordinárias. Nela, elemento e todo estão em uma relação de stigmergia. 
+
+A forma antológica é diversa e variada: antologia, florilégio, obras selecionadas, keepsake, herbier, cahier, album de manuscrits
+
+L'écriture est un prolongement et une conservation de la lecture.
+
+

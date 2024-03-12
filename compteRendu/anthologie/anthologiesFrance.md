@@ -75,6 +75,27 @@ En tant qu'éducation les morceaux servent comme exemples et modèles
 
 Ce sont les critères internes et littéraires que peuvent définir les contours de l'anthologie.
 
+Le critère n'est pas la nature du texte, mais l'économie générale du livre qui accueille et dispose le texte.
+Les critères: 
+- fil directeur affirmé ou identifiable,
+- chronologie,
+- classement thématique
+
+> Ce sont bien ces crières  d'organisation et l'importance du péritexte qui constituent les principaux éléments de définition de l'anthologie et la différencient des autres formes, lointaines ou apparentées, de recueil et de rassemblement littéraire (p. 95)
+
+L'anthologie est l'expression d'une conscience critique de la littérature
+
+Trois types de  disposition de textes: 
+- l'ordre alphabétique,
+- le classement thématique ou géographique
+- organisation chronologique
+
+Définition donnée par Fraisse: une anthologie est organisée, elle a un appareil critique et elle apporte une multiplicité des textes et des auteurs
+
+> L'anthologie est bien ouvrage imprimé, recueil ordonné et raisonné de textes littéraires empruntés et fidèlement cités de manière à exprimer l'unité ou la diversité d'une littérature, d'un thème ou d'une époque littéraires, mettant en valeur des passages mémorables, excellents, caractéristiques ou curieux. Elle est définie par la multiplicité des textes qu'elle reproduit et que, grâce à la présence d'une distance critique de son concepteur, elle organise en ne se contentant pas de les citer (p. 98)
+
+Anthologiste: un lecteur qui donne à lire des textes à un public. il est un médiateur littéraire. il fait la médiation entre les écrivains dedans l'anthologie et les lecteurs de l'anthologie, qui ne sont pas forcement les lecteurs 'originaux' des écrivains.
+
 
 
 

@@ -96,6 +96,14 @@ Définition donnée par Fraisse: une anthologie est organisée, elle a un appare
 
 Anthologiste: un lecteur qui donne à lire des textes à un public. il est un médiateur littéraire. il fait la médiation entre les écrivains dedans l'anthologie et les lecteurs de l'anthologie, qui ne sont pas forcement les lecteurs 'originaux' des écrivains.
 
+La question la plus pressante aux anthologies littéraires: "Que choisir?". On peut élargir cette question en pensant pour quoi et pour qui choisir. C'est à dire que le choix des éléments unitaires dependent de l'intention de l'anthologiste. 
 
+> Loin d'être réductible à un simple cadre d'expression idéologique, l'anthologie suppose non seulement un rapport à la littérature, mais fonde une relation au littéraire. C'est parce qu'elle est en soi un objet littéraire, médiateur et créateur, qu'elle est susceptible de participer à une définition et à une mise en ordre de la littérature (p. 116)
+
+L'anthologie est une forme de critique littéraire, c'est une place où la littérature est réévaluée.
+
+L'anthologie a besoin du fragment, elle est faite à partir de la fragmentation, et posterieure réorganisation, des œuvres.
+
+L'anthologiste est un lecteur-médiateur.
 
 

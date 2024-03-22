@@ -106,4 +106,17 @@ L'anthologie a besoin du fragment, elle est faite à partir de la fragmentation,
 
 L'anthologiste est un lecteur-médiateur.
 
+Anthologies érotiques: réflexion esthétique ; l'érotique est défini par rapport à l'époque du texte considéré
+
+> c'est dans le rassemblement de textes que s'opère concrètement le bornage, l'invention et l'inscription d'un aspect du champ littéraire (p. 128)
+
+L'anthologie peut apparaître comme une ontologie. Lorsqu'elle classe et qualifie les textes, elle dresse les contours de la littérature dont elle rend compte. Le cas de l'*Anthologie grecque* et les épigrammes est paradigmatique. Être à l'*AG* est un des critères pour définir un épigramme. Bien sûr, il y en a des épigrammes hors l'*AG*, mais tout texte à l'*AG* est censé d'être une épigramme. 
+
+> Fondée sur le fragment, la répétition et la différence des extraits retenus, elle \[l'anthologie] finit par atteindre, dans les meilleurs cas, une unité esthétique paradoxale puisque ces textes éclatés parviennent bien à «faire un corps». (p 129)
+
+> Après les dictionnaires et les encyclopédies, les anthologies semblent constituer une des formes d'imprimés qui se prêtent le plus immédiatement à un passage sur un support électronique (p. 263)
+
+L'anthologie est une exposition hiérarchisée de la littérature destinée à provoquer curiosité, lectures personnelles et commentaires. Elle propose une interprétation de ce que l'anthologiste juge être l'essentiel ou le plus beau. L'anthologie a aussi la fonction de conservation de la littérature. Elle est un outil de transmission des textes que la composent.
+
+> Or, c'est bien désormais ce passage de la collection à la médiation autorisée et faisant autorité que ten à disqualifier le monde numérique du réseau
 

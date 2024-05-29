@@ -25,7 +25,7 @@ Bolter e Grusin, quando trabalham os conceitos de immediacy e hypermediacy, pens
 Immediacy -> Realismo (supostamente)
 Desejo de immediacy, anseio pela transparência!
 
-Hypermediacy: as mídias presentes se fazem visíveis.
+Hypermediacy: as mídias presentes se fazem visíveis. é a mídia se fazendo representar. a hypermediacy é uma combinação multimídia opaca. no sentido em que a multiplicidade é perceptível.
 
 
 

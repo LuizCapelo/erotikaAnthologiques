@@ -64,3 +64,24 @@ L'anthologie est une forme éditoriale
 - L'anthologie est une statification de discours, inclus les paratextes et l'apparat critique
 
 Double mouvement de l'anthologie: recueillir et choisir, relier et distinguer.
+
+---
+
+L'Anthologie, un mode dévié
+Annick Louis
+
+L'anthologie est un mode d'exposition et de diffusion du littéraire.
+La question de l'auctorialité
+
+> les trois compilateurs \[Borges, Casares et Ocampo] vont utiliser l'anthologie pour dévier un genre, et aussi proposer une nouvelle conception de la notion de genre, qui met en question les tendances dominantes dans le milieu intellectuel de l'époque.
+
+Effet fragmentaire de l'anthologie: l'œuvre anthologique presente des fragments d'autres œuvres. 
+
+> Ainsi l'anthologie juxtapose des textes sur lesquels elle inscrit un genre, et en même temps, l'ensemble forge une conception de ce genre (p. 470)
+
+A *AG* faz o mesmo. Ela coleta uma série de épigramas e ela determina a forma do epigrama. Ora, fora da *AG* não há muitos outros epigramas. A literatura epigramática está quase que exclusivamente na *AG*. Logo, a *AG* forja o que é um epigrama. 
+
+O antologista é primeiramente um leitor.
+
+No caso da <em>Antologia de la literatura fantástica</em>, de Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo, é exposta uma concepção de literatura fantástica distinta daquela esperada pelo público letrado de sua época e local (Argentina, anos 1940). Ao justapor textos completos, peças dramáticas e fragmentos, os antologistas criam uma literatura fantástica outra. Eles são diretamente responsáveis pelo estabelecimento do formato da literatura fantástica latino-americana, que posteriormente será empregado também por Gabriel Garcia Marques e outros.
+

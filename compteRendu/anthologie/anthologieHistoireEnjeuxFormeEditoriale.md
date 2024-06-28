@@ -85,3 +85,24 @@ O antologista é primeiramente um leitor.
 
 No caso da <em>Antologia de la literatura fantástica</em>, de Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo, é exposta uma concepção de literatura fantástica distinta daquela esperada pelo público letrado de sua época e local (Argentina, anos 1940). Ao justapor textos completos, peças dramáticas e fragmentos, os antologistas criam uma literatura fantástica outra. Eles são diretamente responsáveis pelo estabelecimento do formato da literatura fantástica latino-americana, que posteriormente será empregado também por Gabriel Garcia Marques e outros.
 
+Anthologie de la littérature fantastique. Bioy afirma o critério de classificação da antologia é a presença na narrativa de uam explicação aos elementos fantásticos ali presente. Contudo, nem todos os textos presentes na *Antologie de la littérature fantastique* seguem esse critério. Isso revela que há uma sobreposição de critérios de classificação dos textos presente na obra. 
+
+> si toute anthologie choisi un axe - soit chronologique, soit géographique, soit un auteur, celui-ci constitue rarement sont véritable objet, ou en tout cas, son objet unique. L'anthologie peut ainsi être perçue comme in *objet dévié*, un type de construction qui tout en traitant explicitement d'un objet, en propose un autre, qui reste, la plupart du temps, implicite. (p. 473)
+
+OK. A questão que se coloca com objetos implícitos é que eles muitas vezes ficam a critério do crítico vê-los ou não. 
+Fraisse tem uma abordagem diferente. Para ele, a antologia é um expressão crítica de uma literatura. 
+Pessoalmente, meu argumento é que a antologia é uma visão crítica do antologista de uma literatura. A antologia não abarca o todo, mas apenas os elementos que o antologista escolheu. Assim, como há critérios determinados pelo crítico, a imagem que a antologia fornece é, sem certa medida, subjetiva.
+
+> Les anthologies présentent la particularité d'être des ouvrages qui se situent dans un territoire spécifique, dessiné par les spécialistes (auteurs, critiques et éditeurs) et ré-approprié par des lecteurs en quête soit d'un guide, soit d'une vision autre que celle qu'ils ont d'une question, d'un auteur ou d'un genre (p. 473)
+
+Não há, na antologia, uma demonstração sistemática dos critérios utilizados para elaborá-la. Os paratextos muitas vezes fornecem explicação de um critério ou de outro, mas não englobam sua totalidade. Uma antologia não é um ensaio crítico ou uma dissertação, em que é preciso defender uma hipotese, demonstrar sua validade e fornecer exemplos. A antologia é, além de uma reunião de elementos, um objeto estético independente. Assim sendo, ela dispensa a apresentação e a precisão teóricas necessárias em uma tese crítica.
+
+Barthes funções do autor (*Critique et vérité*):
+1. *scriptor* - recopier sans rien ajouter
+2. *compilator* - rassembler sans ajouter du sien
+3. *comentator* - intervenir pour rendre le texte plus intelligible
+4. *auctor* - donner ses propres idées
+
+La vision critique commence au *compilator*.
+L'anthologie expose la conception que l'anthologiste a d'un objet
+

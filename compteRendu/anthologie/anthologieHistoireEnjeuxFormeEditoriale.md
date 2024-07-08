@@ -106,3 +106,7 @@ Barthes funções do autor (*Critique et vérité*):
 La vision critique commence au *compilator*.
 L'anthologie expose la conception que l'anthologiste a d'un objet
 
+Oeuvres complètes reposent sur la fiction de totalité. L'anthologie, sur la fiction de la representativité.
+
+L'anthologie repose sur le fragment. Elle est une oeuvre fragmentaire. 
+

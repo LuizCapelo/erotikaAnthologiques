@@ -60,4 +60,13 @@ L'anamorphose que le critique imprime à son objet est toujours dirigée: elle d
 
 A crítica não é uma tradução da obra, ela é uma perifrase, um paratexto.
 
-O crítico é primeiramente um leitor
+O crítico é primeiramente um leitor.
+Ler a crítica não pode substituir ler a obra, o crítico não toma o lugar do leitor. 
+
+O crítico é um leitor que escreve. O Antologista é um primeiramente um crítico
+
+A Idade Média estabelece quatro funçoes do autor: 
+*scriptor* - copia sem nada acrescentar. Ora, há certa idealização aqui. Quando se trabalha diretamente com um manuscrito, e a *AG* nos permite isso por ter sido digitalizado pela Biblioteca de Heidelberg, percebe-se que o escriba muitas vezes acrescenta ou mesmo apaga letras, palavras ou blocos de texto. 
+*compilator* - compila sem jamais acrescentar seu próprio trabalho. Seguinda a distinção anteriormente estabelecida, o *compilator* é o autor de um *sylloge*, ele é o algoritmo que reúne informações. Entrentanto, como visto, a ação de escolher e reunir objetos é criadora de sentido.
+*commentator* - em teoria, ele intervém no texto para o tornar mais inteligível. Na prática, o comentarista acrescenta todo tipo de informação, e não apenas aquilo que tornaria o texto mais inteligível. O comentario é um paratexto. "Le critique n'est rien d'autre qu'un *commentator*
+*auctor* - quem dá suas próprias ideias, apoiando-se em outras autoridades. 

@@ -20,3 +20,4 @@ Contudo, Victor Hugo também foi parlamentar durante a Monarquia de Julho.
 O autor é polissêmico. Ele é a origem do conteúdo do texto, mas ele não se resume a esse conteúdo.
 Ora, sequer se pode afirmar categoricamente que o conteúdo do texto é aquilo que o autor verdadeiramente pensa.
 O republicano Hugo de *Quatrevingt-treize* não impede o Hugo parlamentar ou o jovem poeta monarquista conservador.
+

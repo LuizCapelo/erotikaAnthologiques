@@ -120,3 +120,10 @@ L'anthologie est une exposition hiérarchisée de la littérature destinée à p
 
 > Or, c'est bien désormais ce passage de la collection à la médiation autorisée et faisant autorité que ten à disqualifier le monde numérique du réseau
 
+Busca ARCHIVER - CONSERVER
+
+> une troisième caractéristique des principaux textes de l'*Anthologie grecque*,et ceux de Méléagre en particulier, est de ne poursuivre aucune fin didactique. Alors que la pluspart des grandes textes antiques nous sont parvenus pour des besoins scolaires, les épigrammes semblent bien étrangères à cet univers (p. 21)
+
+Antologia e conservação da literatura: mais metafórica e intelectual do que real. "Sauf dans le cas très partoculier de l'*Anthologie grecque*, les textes présentés n'étaient nullement menacés d'inaccessibilité absolue ou de disparition matérielle (p. 267)
+
+A antologia é memória e proteção dos textos no sentido de os redescobrir, organizar e comunicar.

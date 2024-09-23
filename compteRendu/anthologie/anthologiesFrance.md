@@ -126,4 +126,18 @@ Busca ARCHIVER - CONSERVER
 
 Antologia e conservação da literatura: mais metafórica e intelectual do que real. "Sauf dans le cas très partoculier de l'*Anthologie grecque*, les textes présentés n'étaient nullement menacés d'inaccessibilité absolue ou de disparition matérielle (p. 267)
 
+ENSEIGNER - FAIRE APPRENDRE
+
+> Les anthologies scolaires, et particulièrement celles du deuxième cycle du secondaire, ont un impact décisif dans la transmission et la définition de la littérature. (p. 215)
+
+A antologia é um tradicional instrumento pedagógico. Por sua capacidade performativa de criar uma representação do literário, ela é imprescindível no ensino da literatura.
+
+Les anthologies sont un agent de déformation intelectuelle des élèves, puisqu'elles donnent une image faussée de la littérature et de son accès ?
+Começamos questionando o adjetivo "faussée". Ora, a antologia não dá uma imagem falsa, tampouco verdadeira, porque o literário não está no domínio do locutório filosófico do verdadeiro ou do falso. O literário trabalha no contexto do verossímil.
+
+Anthologie scolaire = normalisation de la littérature ?
+L'anthologie scolaire a un très fort aspect normatif. Pourtant, toutes les anthologies ont un aspect normatif aussi.
+
+Uma antologia escolar aplicada a toda à rede padroniza o conteúdo a ser ensinado. Se todas as escolas de determinado país ou região utilizam o mesmo material de apoio, todos os alunos, seja aquele da escola rica, seja aquele da escola pobre, terão acesso aos mesmos conteúdos. Há um evidente elemento ideológico nessa postura. A antologia serve, dessa forma, como mecanismo de propagação ideológica.
+
 A antologia é memória e proteção dos textos no sentido de os redescobrir, organizar e comunicar.

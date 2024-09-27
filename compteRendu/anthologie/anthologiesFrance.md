@@ -141,3 +141,18 @@ L'anthologie scolaire a un très fort aspect normatif. Pourtant, toutes les anth
 Uma antologia escolar aplicada a toda à rede padroniza o conteúdo a ser ensinado. Se todas as escolas de determinado país ou região utilizam o mesmo material de apoio, todos os alunos, seja aquele da escola rica, seja aquele da escola pobre, terão acesso aos mesmos conteúdos. Há um evidente elemento ideológico nessa postura. A antologia serve, dessa forma, como mecanismo de propagação ideológica.
 
 A antologia é memória e proteção dos textos no sentido de os redescobrir, organizar e comunicar.
+
+Em seu estudo, Fraise analisa o emprego da antologia como instrumento pedagógico, na França, para o deuxième cycle du secondaire, durante, grosso modo, o final do século XIX e a quase integralidade do século XX. Sua constatação é que l'antologie a eu une importance significative dans la période envisagée. 
+
+> Les recueils de morceaux choisis destinés à l'enseignement contribuent à exprimer quantitativement leur jugements littéraires (p. 218)
+
+A classificação dos elementos antologizados desvela a visão política de mundo do antologista. Além da escolha dos dados, a apresentação deles é eloquente. Por exemplo, podemos analisar o sumário de uma antologia escolar para constatarmos esse fato. Os textos são divididos por épocas, gêneros, escolas e movimentos. É implicitamente assumida a progressão linear e positivista da literatura. Primeiro o classicismo é "superado" pelo romantismo, em seguida os realistas superam os românticos e assim por diante.
+
+L'antologie littéraire doit être à la fois une norme littéraire et morale qui rend compte du fait littéraire.
+
+> A quelques rares exceptions près, les anthologies scolaires de l'ensemble de la période 1880 - 1990 bénéficient de la garantie instutionnelle - et de l'expérience - qu'apportent leurs auteurs qui se recrutent pour l'ensemble des grandes maison concernées dans un vivier liant étroitement quelques grands lycées parisiens (p. 220)
+
+
+Anthologie scolaire est un manuel d'histoire littéraire.
+
+

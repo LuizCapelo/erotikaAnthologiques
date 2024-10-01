@@ -153,6 +153,22 @@ L'antologie littéraire doit être à la fois une norme littéraire et morale qu
 > A quelques rares exceptions près, les anthologies scolaires de l'ensemble de la période 1880 - 1990 bénéficient de la garantie instutionnelle - et de l'expérience - qu'apportent leurs auteurs qui se recrutent pour l'ensemble des grandes maison concernées dans un vivier liant étroitement quelques grands lycées parisiens (p. 220)
 
 
-Anthologie scolaire est un manuel d'histoire littéraire.
+Anthologie scolaire est un manuel d'histoire littéraire. L'anthologie scolaire a de la difficulté à acepter et à anthologiser les novations littéraires. 
+> regrouper les textxes afin d'assurer des exercices et questionnements appropriées tout en assurant un enseignement concret de l'histoire littéraire (p. 227)
+
+un recueil de morceaux choisis méthodiquement.
+Le manuel de morceaux choisis a une dimension totalisante
+L'anthologie scolaire entretient des rapports complexes avec le manuel d'histoire littéraire. Elle n'a pas complètement éliminé le manuel, mais elle le remplace de plus en plus.
+L'anthologie enseigne l'histoire littéraire par le biais de l'étude des textes.
+
+> Deux reproches principaux, distincts ou confondus, sont reguliérement adressées à l'école et à l'outil qui, dans le secondaire, en est le symbole le plus marquant. Le premier met en cause la myopie intellectuelle et esthétique des auteurs d'anthologie, incapables de discerner les véritables lignes de force de la littérature, particulièrement dans le cas des œuvres les plus récentes. Quant au second, il dénonce non seulement l'étroisse idéologique des auteurs de manuels mais aussi la force de coercition et de censure de l'objet éditorial à travers les dispositifs et les discours - implicites et explicites - qu'il met en œuvre (p. 234)
+
+Anthologie scolaire est dotée d'una appareil pédagogique constitué d'études, de notices, de notes et de remarques destinées à provoquer et orienter la lecture. 
+
+Caractère normatif de l'anthologie: elle décide en dernière analyse de ce qui est ou n'est pas littérature. 
+L'anthologie scolaire est un discours critique et témoignage d'une sensibilité collective.
+
+
+
 
 
